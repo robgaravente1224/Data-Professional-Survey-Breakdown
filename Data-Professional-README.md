@@ -1,6 +1,9 @@
-Data Professional Survey Breakdown Dashboard Project Overview This project delivers a comprehensive and interactive Power BI dashboard designed to analyze the global data professional landscape. Leveraging a survey dataset of over 600 participants, the primary goal was to uncover crucial trends and insights related to career progression, compensation, skill sets, and industry entry barriers within the data field.
+Data Professional Survey Breakdown Dashboard Project Overview 
 
-Key Achievements Interactive Dashboard Creation: Developed a dynamic Power BI dashboard (Data Professional Survey Breakdown Dashboard.pbix) that provides a visual and interactive interface for exploring survey data. Users can easily drill down into various metrics to gain deeper insights into the data professional ecosystem.
+This project delivers a comprehensive and interactive Power BI dashboard designed to analyze the global data professional landscape. Leveraging a survey dataset of over 600 participants, the primary goal was to uncover crucial trends and insights related to career progression, compensation, skill sets, and industry entry barriers within the data field.
+
+Key Achievements Interactive Dashboard Creation
+Developed a dynamic Power BI dashboard (Data Professional Survey Breakdown Dashboard.pbix) that provides a visual and interactive interface for exploring survey data. Users can easily drill down into various metrics to gain deeper insights into the data professional ecosystem.
 
 Key Trend Visualization: The dashboard effectively visualizes critical findings, including:
 
